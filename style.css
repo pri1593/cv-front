@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Poppins:ital,wght@0,100;0,300;0,700;1,400;1,500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(255, 173, 163);
+    height: 500px;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+
+    
+}
+
+.titulo-perfil{
+    font-size: 15px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+.info{
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    width: 400px;
+    height: 150px;
+    padding: 10px;
+    font-size: 16px;
+    margin: 15px;
+
+}
+.iconos{
+    *background-color: red;
+    display: flex;
+    justify-content:center;
+    margin-top: 430px;
+    position: absolute;
+    gap: 20px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+}
+img{
+    width: 30px;
+
+}
+.contacto ul{
+    width: 200px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    list-style: none;
+}
+h3{
+    font-size: 20px;
+    
+}
+.resto-info{
+    height: 500px;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    padding: 40px;
+    background-color: bisque;
+    font-family: 'Poppins';
+
+}
+.formacion{
+    padding: 0;
+    *background-color: red;
+    
+}
+.form1{
+    list-style: none;
+    
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.boot{
+    margin-top: 40px;
+    font-size: 22px;
+}
+.form2{
+    list-style: none;
+
+}
+.curso{
+    margin-top: 40px;
+    font-size: 22px;
+}
+.form3{
+    list-style: none;
+}
+/* .skills{
+    background-color: rgb(244, 157, 126);
+    height: 500px;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    font-family: 'Poppins';
+}
+
+h1
+
+
+.form4{
+    padding: 20px;
+
+} */
+.skl{
+    background-color:grey;
+    height: 500px;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    font-family: 'Poppins';
+    color: #fff;
+
+}
+
+/* .skills1{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: red;
+} */
+.formacion1{
+    margin-top: 45px;
+}
