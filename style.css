@@ -181,16 +181,16 @@ h1
     }
     .info{
         display: flex;
-        width: 650px;
+        width: 850px;
         margin-top: 20px;
         flex-direction: row;
-        font-size: 20px;
+        font-size: 22px;
         
         
     }
     .contacto ul{
-        font-size: 22px;
-        width: 300px;
+        font-size: 23px;
+        width: 400px;
     }
     .perfil{
         display: block;
@@ -235,6 +235,7 @@ h1
         margin-top: 180px;
         
     } */
+    
     img{
         width: 45px;
     }
@@ -243,6 +244,16 @@ h1
     }
     .curso{
         font-size: 30px;
+    }
+    .form1{
+        font-size: 23px;
+    }
+    .form2{
+        font-size: 25px;
+
+    }
+    .form3{
+        font-size: 25px;
     }
 }
 
