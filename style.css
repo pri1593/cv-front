@@ -39,7 +39,7 @@
     width: 400px;
     height: 180px;
     padding: 10px;
-    font-size: 18px;
+    font-size: 16px;
     margin: 15px;
     box-shadow: 11px 15px 29px -9px rgba(224,20,20,0.4);
 -webkit-box-shadow: 11px 15px 29px -9px rgba(224,20,20,0.4);
@@ -235,7 +235,7 @@ h1
         margin-top: 180px;
         
     } */
-    
+
     img{
         width: 45px;
     }
